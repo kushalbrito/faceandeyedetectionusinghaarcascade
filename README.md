@@ -1,4 +1,4 @@
-#face and eye detection using haarcascade method in python
+# face and eye detection using haarcascade method in python
 
 This is a simple face and eye detection code written in Python With opencv and Other Useful Module. I wrote this project just for practise and fun purpose. if you are also new to python and want to practise your skills . then you can use this python repo and your Project.
 
